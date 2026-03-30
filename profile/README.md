@@ -72,6 +72,8 @@ collabity/
 <summary><b>🗄 데이터베이스 ERD</b></summary>
 <p>데이터베이스는 Spring Data JPA로 관리되며 Flyway로 버전 관리됩니다. 주요 엔티티는 Users, Projects, Documents, Attachments 등입니다.</p>
 <!-- ERD 이미지 삽입 가능 -->
+  <img width="764" height="518" alt="image" src="https://github.com/user-attachments/assets/525419cd-7848-4994-9a84-e043a1205e2e" />
+
 </details>
 
 <details>
