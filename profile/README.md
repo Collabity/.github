@@ -88,7 +88,7 @@ collabity/
 | **Auth** | 로그인/로그아웃, 토큰 재발급 | 
 | **File** | 파일/폴더 업로드, 다운로드, 스토리지 관리 | 
 
-👉 [전체 API 명세서 상세 보기](./DOCS_API.md)
+👉 [전체 API 명세서 상세 보기](https://github.com/Collabity/.github/blob/main/DOCS_API.md)
 </details>
 
 ---
